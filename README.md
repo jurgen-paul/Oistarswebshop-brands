@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning HOW THE UNIVERSE WORKS AND HOW WE AS PEOPLES COULD BUILT A STRONGER CONNECTION #SHALOM
 - 💞️ I’m WORKING FOR NVIDIA AS SOFRWARE DEVELOPER
 - 📫 How to reach me follow this body-script below and found out more about jpaul westerveld
-https://claude.ai/public/artifacts/fa18129d-5364-4876-82b6-4332ca9d27a2
+
 <!---
 jurgen-paul/jurgen-paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->OISTARSENTERTAINMENT & WEBSHOP BRANDS INFORMATION SCRIPT
+
+https://claude.ai/public/artifacts/fa18129d-5364-4876-82b6-4332ca9d27a2
 <!DOCTYPE html>
 <html lang="en">
 <head>
