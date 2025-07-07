@@ -1,0 +1,16 @@
+python_peuso_chatbot_customerservice.file
+
+def handle_user_query(query):
+    if is_simple_query(query):
+        return answer_simple_query(query)
+    else:
+        escalate_to_agent(query)
+
+def is_simple_query(query):
+    # eenvoudige logica om te bepalen of de vraag te simpel is
+    simple_keywords = ["status", "openingstijd", "adres"]
+    return any(keyword in query.lower() for keyword in simple_keywords)
+
+def escalate_to_agent(query):
+    # logica om door te schakelen naar een menselijke agent
+    print("Doorverwijzen naar een medewerker voor verdere assistentie.")
