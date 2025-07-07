@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jurgen-paul Westerveld 
 - 👀 I’m interested in data science, books, history, family, peoples without eachother,nothing is possible
 - 🌱 I’m currently learning HOW THE UNIVERSE WORKS AND HOW WE AS PEOPLES COULD BUILT A STRONGER CONNECTION #SHALOM
-- 💞️ I’m WORKING FOR NVIDIA AS SOFRWARE DEVELOPER
+- 💞️ I’m WORKING FOR NVIDIA AS SOFTWARE DEVELOPER
 - 📫 How to reach me follow this body-script below and found out more about jpaul westerveld
 
 <!---
